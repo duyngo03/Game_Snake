@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1653200106 source:c:\users\admin\onedrive\máy tính\ran\baseinit.cpp
+	"BaseInit.h"
+
+1653200106 c:\users\admin\onedrive\máy tính\ran\baseinit.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<bits/stdc++.h>
+
+1653200106 source:c:\users\admin\onedrive\máy tính\ran\loadtexture.cpp
+	"LoadTexture.h"
+
+1653200106 c:\users\admin\onedrive\máy tính\ran\loadtexture.h
+	"BaseInit.h"
+
+1653200106 source:c:\users\admin\onedrive\máy tính\ran\main.cpp
+	"BaseInit.h"
+	"LoadTexture.h"
+	"SnakeMove.h"
+	"Target.h"
+	"Menu.h"
+	"QuitMenu.h"
+
+1653200106 c:\users\admin\onedrive\máy tính\ran\snakemove.h
+	"BaseInit.h"
+
+1653200106 c:\users\admin\onedrive\máy tính\ran\target.h
+	"BaseInit.h"
+
+1653200106 c:\users\admin\onedrive\máy tính\ran\menu.h
+	"BaseInit.h"
+	"LoadTexture.h"
+
+1653200106 c:\users\admin\onedrive\máy tính\ran\quitmenu.h
+	"BaseInit.h"
+	"LoadTexture.h"
+
+1653200106 source:c:\users\admin\onedrive\máy tính\ran\menu.cpp
+	"Menu.h"
+
+1653265880 source:c:\users\admin\onedrive\máy tính\ran\quitmenu.cpp
+	"QuitMenu.h"
+
+1653200106 source:c:\users\admin\onedrive\máy tính\ran\snakemove.cpp
+	"SnakeMove.h"
+
+1653200106 source:c:\users\admin\onedrive\máy tính\ran\target.cpp
+	"Target.h"
+
